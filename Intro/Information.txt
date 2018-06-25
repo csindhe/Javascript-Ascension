@@ -1,0 +1,7 @@
+1.  Javascript is a prototype-based model. This provides dynamic inheritance i.e. what is inherited can vary for 
+    individual objects.
+2.  Javascript supports functions without any special declarative requirements. Functions can be  properties of Objects,
+    executing as loosely typed methods.
+3.  Javascript is Object-Oriented. Variable data types are not declared. Cannot automatically write to Hard Disk. There 
+    is no distinction between types of objects. Inheritance is through prototype mechanism, properties and methods can 
+    be added to any object dynamically.

@@ -1,0 +1,15 @@
+.top-container{
+    text-align: center;
+}
+.bottom-container {
+    background-color: lightblue;
+    border-radius: 10px;
+    height: auto;
+}
+.bottom-container-header, .output-section-header{
+    text-align: center;
+}
+.output-section{
+    background-color: lightcoral;
+    border-radius: 10px;
+}
